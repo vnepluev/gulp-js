@@ -19,7 +19,7 @@ git clone git@github.com:vnepluev/gulp-js.git <папка вашего прое�
 npm install
 ```
 
-<br>
+
 ### ШАГ 3
 
 Всю разработку ведем в папке src
